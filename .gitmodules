@@ -1,0 +1,3 @@
+[submodule "ApproxFunNewton.jl"]
+	path = ApproxFunNewton.jl
+	url = git@github.com:LucasAschenbach/ApproxFunNewton.jl.git
